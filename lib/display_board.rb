@@ -2,8 +2,8 @@
 
 def display_board
   puts "   |   |   "
-  puts "__________"
+  puts "-----------"
   puts "   |   |   "
-  puts "__________"
+  puts "-----------"
   puts "   |   |   "
 end
